@@ -1,0 +1,6 @@
+framework module Pods_Mo_Salah {
+  umbrella header "Pods-Mo Salah-umbrella.h"
+
+  export *
+  module * { export * }
+}
